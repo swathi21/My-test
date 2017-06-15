@@ -35,4 +35,33 @@
     document.head.appendChild(polyfill);
   }
 
+
+  (function()}
+    var onwencomponentsLoaded=function(){
+
+      var mainElementLink.import && mainElementLink.impert.readyState ==='complete') {
+    onMainElementLoaded();
+  }else{
+    mainElementLink.addEventListener('load', onMainElementLoaded);
+  }
+  };
+
+  var onMainElementLoaded =function(){
+    var splashE1 =document.getElementById('splash');
+      lashE1.parentnode.removeChild('splash');
+    
+};
+
+
+var onMainElementLoaded = function(){
+  var splashE1 = document.getElementById('splash');
+   lashE1.parentnode.removeChild('splash');
+};
+
+
+(function)
+  var onWebComponentsLoaded=function(){
+    var mainElementLink.addEventListener('load')
+  }
+
 }());
