@@ -12,3 +12,5 @@ npm-debug.log
 temp
 dist
 .github/
+generator-px-comp
+px-starter-kit-design
